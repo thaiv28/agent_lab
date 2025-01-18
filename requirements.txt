@@ -1,1 +1,3 @@
 agentlab
+browsergym-webarena
+python-dotenv
